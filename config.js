@@ -29,30 +29,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== INFO OWNER ==============*/
 global.sig = 'https://instagram.com/andiariskaard'
 global.syt = 'https://youtu.be/pwLZpdfAU'
-global.sgh = 'https://github.com/F1rxyz'
+global.sgh = 'https://github.com/hhhhhz'
 global.sgc = 'https://chat.whatsapp.com/DvYxmsOmeLfC2v8rlHzmsO'
-global.swa = 'wa.me/6285806459088'
+global.swa = 'wa.me/6285608468994'
 global.swb = 'https://'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '6285806459088'
+global.pdana = '6285608468994'
 global.povo = '-'
-global.pgopay = '6285806459088'
-global.ppulsa = '6285806459088'
-global.ppulsa2 = '6285806459088'
-global.psaweria = 'https://saweria.co/rta2'
+global.pgopay = '6285608468994'
+global.ppulsa = '6285608468994'
+global.ppulsa2 = '6285608468994'
+global.psaweria = 'https://saweria.co/a2'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285806459088'
-global.nomorown = '6285806459088'
-global.namebot = 'SevenNightラ'
-global.nameown = 'Mikaa'
+global.nomorbot = '6285608468994'
+global.nomorown = '6285608468994'
+global.namebot = 'Ishikaラ'
+global.nameown = 'Ishika'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285806459088', 'Mikaa', 'true']
+  ['6285608468994', 'Ishika', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -103,16 +103,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'SevenNightラ | By Mikaa' //Main Watermark
-global.wm2 = 'SevenNight'
-global.wm3 = 'SevenNightラ | By Mikaa'
+global.wm = 'IshikaBotzラ | By Mikaa' //Main Watermark
+global.wm2 = 'IshikaBotz'
+global.wm3 = 'IshikaBotzラ | By Mikaa'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `SevenNightラ | ʙʏ ${global.nameown}`
-global.author = 'Mikaa' 
-global.packname = 'SevenNight '
+global.titlebot = `IshikaBotzラ | ʙʏ ${global.nameown}`
+global.author = 'Ishika' 
+global.packname = 'IshikaBotz '
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 27 2023'
+global.ultahowner = 'agustus 27 2023'
 
 
 /*============== LOGO ==============*/
@@ -127,10 +127,10 @@ global.thumbWarn = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
 global.botintro = 'Hallo, Kenalin saya Yuki BOT Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh *ᴹᴿ᭄ King Of Bear ×፝֟͜×* Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'Mikaa'
-global.umurowner = '13'
+global.nameowner = 'Ishika'
+global.umurowner = '23'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285806459088'
+global.nomorowner = 'wa.me/6285608468994'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
@@ -380,7 +380,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
 global.stickpack = 'ᴍᴀᴅᴇ ʙʏ'
-global.stickauth = `SevenNight`
+global.stickauth = `IshikaBotz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
